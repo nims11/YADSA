@@ -1,0 +1,23 @@
+YADSA (Yet Another Digit Software Archive)
+
+YADSA is an app which allows users to search for softwares/content provided in the DIGIT CD/DVDs since JULY 2005 till present.
+
+FEATURES:
+* Archive from July 2005 till present.
+* Description, Size, License, Month and Year of the disc and the path of that Software on the Disc.
+* Advanced search options.
+* Easy Offline update
+
+INSTALLATION:
+*Windows : Just run the setup file.
+
+*Linux : download the source, extract it and change the directory to the extracted folder.
+-----------------
+qmake YADSA.pro
+make
+./YADSA
+-----------------
+
+TODO:
+* Implement Offline Update
+* Minor GUI improvements
