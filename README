@@ -13,6 +13,9 @@ INSTALLATION:
 
 *Linux : download the source, extract it and change the directory to the extracted folder.
 -----------------
+wget -O YADSA.tar.gz https://github.com/nims11/YADSA/tarball/master
+tar -zxvf YADSA.tar.gz 
+cd nims11*
 qmake YADSA.pro
 make
 ./YADSA
